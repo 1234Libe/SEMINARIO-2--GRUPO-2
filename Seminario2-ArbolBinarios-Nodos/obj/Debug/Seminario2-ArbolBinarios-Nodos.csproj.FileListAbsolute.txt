@@ -1,0 +1,10 @@
+C:\Users\Hannah\source\repos\Seminario2-ArbolBinarios-Nodos\Seminario2-ArbolBinarios-Nodos\bin\Debug\Seminario2-ArbolBinarios-Nodos.exe.config
+C:\Users\Hannah\source\repos\Seminario2-ArbolBinarios-Nodos\Seminario2-ArbolBinarios-Nodos\bin\Debug\Seminario2-ArbolBinarios-Nodos.exe
+C:\Users\Hannah\source\repos\Seminario2-ArbolBinarios-Nodos\Seminario2-ArbolBinarios-Nodos\bin\Debug\Seminario2-ArbolBinarios-Nodos.pdb
+C:\Users\Hannah\source\repos\Seminario2-ArbolBinarios-Nodos\Seminario2-ArbolBinarios-Nodos\obj\Debug\Seminario2-ArbolBinarios-Nodos.csproj.AssemblyReference.cache
+C:\Users\Hannah\source\repos\Seminario2-ArbolBinarios-Nodos\Seminario2-ArbolBinarios-Nodos\obj\Debug\Seminario2_ArbolBinarios_Nodos.Form1.resources
+C:\Users\Hannah\source\repos\Seminario2-ArbolBinarios-Nodos\Seminario2-ArbolBinarios-Nodos\obj\Debug\Seminario2_ArbolBinarios_Nodos.Properties.Resources.resources
+C:\Users\Hannah\source\repos\Seminario2-ArbolBinarios-Nodos\Seminario2-ArbolBinarios-Nodos\obj\Debug\Seminario2-ArbolBinarios-Nodos.csproj.GenerateResource.cache
+C:\Users\Hannah\source\repos\Seminario2-ArbolBinarios-Nodos\Seminario2-ArbolBinarios-Nodos\obj\Debug\Seminario2-ArbolBinarios-Nodos.csproj.CoreCompileInputs.cache
+C:\Users\Hannah\source\repos\Seminario2-ArbolBinarios-Nodos\Seminario2-ArbolBinarios-Nodos\obj\Debug\Seminario2-ArbolBinarios-Nodos.exe
+C:\Users\Hannah\source\repos\Seminario2-ArbolBinarios-Nodos\Seminario2-ArbolBinarios-Nodos\obj\Debug\Seminario2-ArbolBinarios-Nodos.pdb
